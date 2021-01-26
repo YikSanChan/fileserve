@@ -5,6 +5,6 @@
 ## Run locally
 
 ```
-node app.js
+serve _serve
 ```
 
